@@ -8,6 +8,7 @@ namespace _05_Week2Challenges2
 {
     class Greeter
     {
+        //Expirementation (week 2 challenges below first two methods):
         public string Name { get; set; }
         
         public void GreetAPerson(string name)
@@ -35,6 +36,17 @@ namespace _05_Week2Challenges2
             {
                 Console.WriteLine($"You should really make up your mind, {Name}!");
             }
+        }
+
+        //The way its supposed to be done:
+        public string GreetAPerson2(string name)
+        {
+            return "Hello, " + name;
+        }
+
+        public string GoodbyePerson2(string name)
+        {
+            return "Goodbye, " + name;
         }
 
         public void TimePlease(string time)

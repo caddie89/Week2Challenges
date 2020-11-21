@@ -25,10 +25,21 @@ namespace _05_Week2Challenges2
             Greeter time = new Greeter();
             time.TimePlease("");
 
-            Console.WriteLine("Please press ENTER to clear the console and exit...");
+            Console.WriteLine("Please press ENTER to clear the console and move onto a new greeting and farewell...");
             Console.ReadLine();
             Console.Clear();
 
+            Greeter greeter = new Greeter();
+            string person = greeter.GreetAPerson2("Dolly!");
+            Console.WriteLine(person);
+
+            Greeter farewell2 = new Greeter();
+            string person2 = farewell2.GoodbyePerson2("Jimmy!");
+            Console.WriteLine(person2);
+
+            Console.WriteLine("\nGoodbye!" + "\nPress ENTER to clear the console and exit...");
+            Console.ReadLine();
+            Console.Clear();
         }
 
         void TokenFunction()
