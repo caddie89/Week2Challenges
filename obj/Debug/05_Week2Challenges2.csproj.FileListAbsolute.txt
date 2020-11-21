@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\05_Week2Challenges2\bin\Debug\05_Week2Challenges2.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\05_Week2Challenges2\bin\Debug\05_Week2Challenges2.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\05_Week2Challenges2\bin\Debug\05_Week2Challenges2.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\05_Week2Challenges2\obj\Debug\05_Week2Challenges2.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\05_Week2Challenges2\obj\Debug\05_Week2Challenges2.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\05_Week2Challenges2\obj\Debug\05_Week2Challenges2.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\05_Week2Challenges2\obj\Debug\05_Week2Challenges2.pdb
